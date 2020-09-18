@@ -7,7 +7,7 @@
 ## Hardware
 - Arduino MEGA2560
 - RFID-RC522 
-- I2C 4x20 LCD Display 
+- I2C 20x4 LCD Display 
 - HC-SR04 Ultrasonic Range Distance Sensor
 - SG90 Servo Motor
 - Active Buzzer
