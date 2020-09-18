@@ -14,8 +14,3 @@
 - Power Source (x4 AA) 
 - Green & Red LED 
 - Breadboard & Wires
-
-<br>
-
-#### This project is a great look at the power of the RFID-RC522 module. 
-- The code is in the file RFID_Security.ino
