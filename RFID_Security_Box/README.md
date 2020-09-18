@@ -4,9 +4,6 @@
 
 ## [Video demo of project](https://drive.google.com/file/d/1q3PrqVZtQdxvuCoJrghEDDCH35FLkLs8/view?usp=sharing)
 
-
-<br>
-
 ## Hardware
 - Arduino MEGA2560
 - RFID-RC522 
